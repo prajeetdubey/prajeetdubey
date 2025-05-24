@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Linux system calls, process scheduling**
 
-- 💬 Ask me about **C, system programming, POSIX APIs, and networking fundamentals**
+- 💬 Ask me about **C, system programming, Operating Systems, POSIX APIs, and networking fundamentals**
 
 - 📫 How to reach me **prajeetdubeyofficial@gmail.com**
 
