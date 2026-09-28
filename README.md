@@ -1,7 +1,7 @@
 <h1 align="center">Prajeet Dubey</h1>
 
 <p align="center">
-  <b>Salesforce Developer @ PwC India &nbsp;|&nbsp; Java + Spring Boot Backend &nbsp;|&nbsp; CSE @ VIT Bhopal</b>
+  <b>Salesforce Developer @ PwC India &nbsp;|&nbsp; Java + Spring Boot Backend &nbsp;|&nbsp; B.Tech' CSE @ VIT</b>
 </p>
 
 <p align="center">
