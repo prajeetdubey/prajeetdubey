@@ -78,7 +78,7 @@ Real-time CPU scheduler (FCFS, SJF, Round Robin) with wait-for-graph deadlock de
 
 ### Experience
 
-**PwC India** | Intern, Associate | Feb 2026 - Present
+**PwC India** | Salesforce Developer | Feb 2026 - Present
 - Built the Excel-to-Order/Contract feature on JSW Sambandh using LWC
 - Enhanced the Customer Voice Portal using Aura Components and SOQL
 - Wrote 20+ Apex test classes across modules like VisitPlan and ExcelToOrder, reaching 75%+ coverage
